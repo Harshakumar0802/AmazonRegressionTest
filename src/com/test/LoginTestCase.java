@@ -19,7 +19,7 @@ public class LoginTestCase {
 
 	public void GridTestcase() throws MalformedURLException
 	{
-		String url = "http://192.168.0.112:4444/wd/hub";
+		String url = "http://192.168.0.120:4444/wd/hub";
 
 		//Create an object for Desired Caps to send the appropriate command to Node machine
 
